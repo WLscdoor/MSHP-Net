@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+scipy
+opencv-python
+pillow
+matplotlib
+tensorboard
+torch-geometric
+info-nce-pytorch
+
+# Optional
+thop
+scikit-learn
